@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ECom_db/ECom_db.csproj" />
+  <Project Path="Ecom_lib/Ecom_lib.csproj" />
+  <Project Path="ECom_udemy/ECom_udemy.csproj" />
+</Solution>

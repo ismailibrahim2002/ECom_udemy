@@ -1,0 +1,6 @@
+@ECom_udemy_HostAddress = http://localhost:5005
+
+GET {{ECom_udemy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
